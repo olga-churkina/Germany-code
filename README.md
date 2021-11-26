@@ -19,4 +19,4 @@ The following R packages are used in the analysis:
 
 ### Data Analysis
 
-The R code `Gernamy code.R` implements consists of two parts: extended difference-in-differences and synthetic control analyses. 
+The R code `Gernamy code.R` consists of two parts: extended difference-in-differences and synthetic control analyses. 
