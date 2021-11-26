@@ -12,3 +12,4 @@
 - cvTools (cross-validation tools for regression models)
 - stargazer (exporting to LaTeX)
 - furrr, purr & magrittr (speed the calculations)
+
