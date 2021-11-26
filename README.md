@@ -1,4 +1,8 @@
-## "A quasi-experiment in international student mobility: Germany’s fee re-introductions" in European Journal of Higher Education
+## Replication code for "A quasi-experiment in international student mobility: Germany’s fee re-introductions" in European Journal of Higher Education
+
+###  Package installations
+
+The following R packages are used in the analysis:
 
 - readxl (Excel files)
 - plm (panel data)
@@ -13,3 +17,6 @@
 - stargazer (exporting to LaTeX)
 - furrr, purr & magrittr (speed the calculations)
 
+### Data Analysis
+
+The R code `Gernamy code.R` implements consists of two parts: extended difference-in-differences and synthetic control analyses. 
