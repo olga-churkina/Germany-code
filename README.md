@@ -1,5 +1,7 @@
 ## Replication code for "A quasi-experiment in international student mobility: Germany’s fee re-introductions" in European Journal of Higher Education
 
+The research project analyses Germany’s re-introductions of tuition fees and enrolment of international students for the time period of 1997-2017. The paper uses fixed effects and synthetic control estimators to measure the effect of fee reintroductions on international enrolments. Results reveal that only one state significantly reduced its foreign student intake while the remaining fee-reintroducing states (seven out of 16 total) did not lose foreign students. Findings expand upon prior studies conducted on German students and contribute to the debate concerning optimal student taxation policy. 
+
 ###  Package installations
 
 The following R packages are used in the analysis:
