@@ -4,7 +4,7 @@
 ## date: September 17th, 2021
 ## article: A quasi-experiment in international student mobility: Germany’s fee re-introductions
 ## authors: Matteo Zullo & Olga Churkina
-########################################################################################
+
 
 if (!require(c("readxl","plm","lmtest","dplyr","ggplot2","Synth","SCtools","stringr",
                "stats","cvTools","stargazer","furrr","purrr","magrittr"))) 
